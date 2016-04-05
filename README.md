@@ -1,0 +1,3 @@
+# mak_ds01
+This is my first Repository 
+lets have fun this time with data science...
